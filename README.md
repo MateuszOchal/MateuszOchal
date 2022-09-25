@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateuszOchal
 - 👀 I’m interested in getting first job in IT
-- 🌱 I’m currently learning JS/HTML/CSS/
+- 🌱 I’m currently learning JAVA/HTML/CSS/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
